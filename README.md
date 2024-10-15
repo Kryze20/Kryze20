@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kryze20
 - 👀 I’m interested in a career transition from aviation/defence industry, into cybersecurity.
+  * I come from a non-IT background, and I managed to secure Comptia Security+ certification with 3 months of self-study via Udemy.
 - 🌱 I’m currently learning how to set up a honeypot.
 - 📫 How to reach me : rickyw00n@outlook.com.
 - ⚡ Fun fact:
